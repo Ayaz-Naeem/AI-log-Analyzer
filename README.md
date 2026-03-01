@@ -244,6 +244,4 @@ MIT License — free to use, modify, and distribute.
 
 ## 👤 Author
 
-Built by [Your Name]
-
-> 💡 **Tip:** Add `security_report_*.txt` to your `.gitignore` so real incident data is never accidentally pushed to a public repository.
+Built by Ayaz Naeem
